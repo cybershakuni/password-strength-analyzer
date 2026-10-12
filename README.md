@@ -32,6 +32,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python main.py <password>
 
+```
 
-**Author:** CyberShakuni  
-**Focus:** Cybersecurity | Penetration Testing | Security Automation
+Author: CyberShakuni
+Focus: Cybersecurity | Penetration Testing | Security Automation
