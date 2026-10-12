@@ -34,5 +34,5 @@ python main.py <password>
 
 ```
 
-Author: CyberShakuni
+Author: CyberShakuni                                                                                                                                               
 Focus: Cybersecurity | Penetration Testing | Security Automation
